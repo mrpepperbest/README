@@ -42,14 +42,6 @@
 
 ---
 
-### Primitives
-
-**Link:** <[repo](https://github.com/mrpepperbest/Primitives)><br>
-**Description:** Rendering algorithms for basic graphic primitives.<br>
-**Last update:** 6 May 2020
-
----
-
 ### arcanoid
 
 **Link:** <[repo](https://github.com/mrpepperbest/arcanoid)><br>
@@ -99,14 +91,6 @@
 **Ссылка:** <[репозиторий](https://github.com/mrpepperbest/AVL_and_Red-Black)><br>
 **Описание:** Совместный учебный проект реализации деревьев (AVL и красно‑чёрных) на C++.<br>
 **Последний апдейт:** 24 мая 2020
-
----
-
-### Primitives
-
-**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/Primitives)><br>
-**Описание:** Алгоритмы рендеринга графических примитивов.<br>
-**Последний апдейт:** 6 мая 2020
 
 ---
 
