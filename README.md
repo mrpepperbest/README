@@ -1,6 +1,6 @@
 👋 **Welcome to my GitHub profile.** Below is an overview of my academic and exploratory projects with concise descriptions and links.
 
-# 📚 Repositories (English version)
+# 📚 Repositories
 
 ### Educational
 
@@ -60,7 +60,7 @@
 
 👋 **Добро пожаловать в мой профиль GitHub.** Ниже представлен перечень моих учебных и исследовательских проектов с краткими описаниями и ссылками.
 
-# 📚 Репозитории (Русская версия)
+# 📚 Репозитории
 
 ### Educational
 
