@@ -4,56 +4,56 @@
 
 ### Educational
 
-**Link:** <[repo](https://github.com/mrpepperbest/Educational)>
-**Description:** Solutions to educational tasks in Jupyter notebooks (algorithms, numerical methods, data visualization).
+**Link:** <[repo](https://github.com/mrpepperbest/Educational)><br>
+**Description:** Solutions to educational tasks in Jupyter notebooks (algorithms, numerical methods, data visualization).<br>
 **Last update:** 24 May 2023
 
 ---
 
 ### Control_Theory
 
-**Link:** <[repo](https://github.com/mrpepperbest/Control_Theory)>
-**Description:** Solutions to educational problems in control theory.
+**Link:** <[repo](https://github.com/mrpepperbest/Control_Theory)><br>
+**Description:** Solutions to educational problems in control theory.<br>
 **Last update:** 19 Nov 2022
 
 ---
 
 ### miniscience
 
-**Link:** <[repo](https://github.com/mrpepperbest/miniscience)>
-**Description:** Small collection of example programs demonstrating scientific libraries in C++.
+**Link:** <[repo](https://github.com/mrpepperbest/miniscience)><br>
+**Description:** Small collection of example programs demonstrating scientific libraries in C++.<br>
 **Last update:** 11 Mar 2021
 
 ---
 
 ### pythonLabs
 
-**Link:** <[repo](https://github.com/mrpepperbest/pythonLabs)>
-**Description:** Set of educational lab assignments covering Python fundamentals.
+**Link:** <[repo](https://github.com/mrpepperbest/pythonLabs)><br>
+**Description:** Set of educational lab assignments covering Python fundamentals.<br>
 **Last update:** 2 Dec 2020
 
 ---
 
 ### AVL_and_Red-Black
 
-**Link:** <[repo](https://github.com/mrpepperbest/AVL_and_Red-Black)>
-**Description:** Joint educational project implementing AVL and Red‑Black trees in C++.
+**Link:** <[repo](https://github.com/mrpepperbest/AVL_and_Red-Black)><br>
+**Description:** Joint educational project implementing AVL and Red‑Black trees in C++.<br>
 **Last update:** 24 May 2020
 
 ---
 
 ### Primitives
 
-**Link:** <[repo](https://github.com/mrpepperbest/Primitives)>
-**Description:** Rendering algorithms for basic graphic primitives.
+**Link:** <[repo](https://github.com/mrpepperbest/Primitives)><br>
+**Description:** Rendering algorithms for basic graphic primitives.<br>
 **Last update:** 6 May 2020
 
 ---
 
 ### arcanoid
 
-**Link:** <[repo](https://github.com/mrpepperbest/arcanoid)>
-**Description:** A small Arkanoid clone written in C++.
+**Link:** <[repo](https://github.com/mrpepperbest/arcanoid)><br>
+**Description:** A small Arkanoid clone written in C++.<br>
 **Last update:** 8 Apr 2020
 
 ---
@@ -64,56 +64,56 @@
 
 ### Educational
 
-**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/Educational)>
-**Описание:** Решения учебных задач в Jupyter Notebook (алгоритмы, численные методы, визуализация данных).
+**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/Educational)><br>
+**Описание:** Решения учебных задач в Jupyter Notebook (алгоритмы, численные методы, визуализация данных).<br>
 **Последний апдейт:** 24 мая 2023
 
 ---
 
 ### Control_Theory
 
-**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/Control_Theory)>
-**Описание:** Решения учебных задач по теории управления.
+**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/Control_Theory)><br>
+**Описание:** Решения учебных задач по теории управления.<br>
 **Последний апдейт:** 19 ноя 2022
 
 ---
 
 ### miniscience
 
-**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/miniscience)>
-**Описание:** Небольшой набор примеров использования научных библиотек на C++.
+**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/miniscience)><br>
+**Описание:** Небольшой набор примеров использования научных библиотек на C++.<br>
 **Последний апдейт:** 11 мар 2021
 
 ---
 
 ### pythonLabs
 
-**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/pythonLabs)>
-**Описание:** Набор учебных лабораторных работ по основам Python.
+**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/pythonLabs)><br>
+**Описание:** Набор учебных лабораторных работ по основам Python.<br>
 **Последний апдейт:** 2 дек 2020
 
 ---
 
 ### AVL_and_Red-Black
 
-**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/AVL_and_Red-Black)>
-**Описание:** Совместный учебный проект реализации деревьев (AVL и красно‑чёрных) на C++.
+**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/AVL_and_Red-Black)><br>
+**Описание:** Совместный учебный проект реализации деревьев (AVL и красно‑чёрных) на C++.<br>
 **Последний апдейт:** 24 мая 2020
 
 ---
 
 ### Primitives
 
-**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/Primitives)>
-**Описание:** Алгоритмы рендеринга графических примитивов.
+**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/Primitives)><br>
+**Описание:** Алгоритмы рендеринга графических примитивов.<br>
 **Последний апдейт:** 6 мая 2020
 
 ---
 
 ### arcanoid
 
-**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/arcanoid)>
-**Описание:** Небольшой клон Arkanoid на C++.
+**Ссылка:** <[репозиторий](https://github.com/mrpepperbest/arcanoid)><br>
+**Описание:** Небольшой клон Arkanoid на C++.<br>
 **Последний апдейт:** 8 апр 2020
 
 
